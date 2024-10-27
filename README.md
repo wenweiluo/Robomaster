@@ -1,6 +1,6 @@
-# Robomaster
+# A functional demonstration video of a wheeled mobile robot with shooting capability. All mechanical hardware and control software for this robot are independently developed by the team for participation in the [RoboMaster](https://www.robomaster.com/en-US) competition
 ### Introduction
-Develop embedded software for a wheeled mobile robot with shooting capability based on STM32. Mainly involved in the development of the control system for four-Mecanum wheel chassis, dual-axis gimbal and launching mechanism. And establish communication between various onboard devices.
+Responsible for embedded software development for a wheeled mobile robot with shooting capability based on STM32. Mainly involved in the development of the control system for four-Mecanum wheel chassis, dual-axis gimbal and launching mechanism. And establish communication between various onboard devices.
 
 ### Automatic identification and strike
 Automatically identify the movement armor plate of the red team robot and perform automatic targeting and engagement.
