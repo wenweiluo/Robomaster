@@ -4,8 +4,9 @@ To verify the control performances of the developed approximate RL-based control
 
 ### Experimental results
 <div align=center>
-<video src="https://private-user-images.githubusercontent.com/59788826/380465115-e9b63d7a-613b-4ace-b27f-25e904fed53f.mp4"></video>
+<video src="https://private-user-images.githubusercontent.com/59788826/380465283-d20b7463-d6d8-476b-b2bf-e06aa246ec76.mp4"></video>
 </div>
+
 
 ### The revised experiment
 <div align=center>
