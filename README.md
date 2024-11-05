@@ -1,9 +1,11 @@
-# A functional demonstration video of a wheeled mobile robot with shooting capability. All mechanical hardware and control software for this robot are independently developed by the team for participation in the [RoboMaster](https://www.robomaster.com/en-US) competition
+# Functional demonstration videos of a wheeled mobile robot with shooting functionality
+
+
 ### Introduction
-Responsible for embedded software development for a wheeled mobile robot with shooting capability based on STM32. Mainly involved in the development of the control system for four-Mecanum wheel chassis, dual-axis gimbal and launching mechanism. And establish communication between various onboard devices.
+Developed embedded software for a wheeled mobile robot with shooting functionality based on STM32, mainly focusing on the development of the control system for the four-Mecanum wheel chassis, dual-axis gimbal, and launching mechanism, and established communication among various onboard devices. All mechanical hardware and control software for this robot are independently developed by the Zhejiang Normal University Team for participation in the [RoboMaster](https://www.robomaster.com/en-US) competition. And this project won the National Third Prize in the 2021 National College Students Robotics Competition (RoboMaster Event).
 
 ### Automatic identification and strike
-Automatically identify the movement armor plate of the red team robot and perform automatic targeting and engagement.
+Automatically identify the movement armor plate of the red team robot and perform automatic targeting and shooting.
 <div align=center>
 <video src="https://private-user-images.githubusercontent.com/59788826/380465283-d20b7463-d6d8-476b-b2bf-e06aa246ec76.mp4"></video>
 </div>
